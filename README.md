@@ -56,8 +56,8 @@ Backend Developer focused on Python, APIs and automation
 
 ## 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/danilo-de-melo-dev
-- Email: seuemail@email.com
+- LinkedIn: www.linkedin.com/in/danilo-melo-215210355
+- Email: danilo.demelo.0207@gmail.com
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanilodeMelo-coder/DanilodeMelo-coder/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanilodeMelo-coder/DanilodeMelo-coder/output/pacman-contribution-graph.svg">
