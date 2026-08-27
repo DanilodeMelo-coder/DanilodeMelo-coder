@@ -87,8 +87,7 @@ public class Danilo {
 
 ---
 
-# 💡 What I'm Doing
-
+# 💡 What I'm Do
 ```text
 ☕ Studying Java every day
 
@@ -219,8 +218,9 @@ Learning something new every day 🚀
 
 | Category | Technologies |
 |-----------|--------------|
-| 💻 Language | Java • Python • SQL |
+| 💻 Language | Java • Python • SQL • JavaScript|
 | 🚀 Backend | Spring Boot • FastAPI |
+| ✨️ FrontEnd | Html • Css • React |
 | 🗄 Database | PostgreSQL • MySQL |
 | 🔧 Tools | Git • GitHub • Docker |
 | 🖥 IDE | IntelliJ IDEA • VS Code |
