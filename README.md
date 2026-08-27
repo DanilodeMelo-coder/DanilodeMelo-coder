@@ -81,7 +81,7 @@ public class Danilo {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,mysql,docker,git,github,linux,idea,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,python,fastapi,postgres,mysql,docker,git,github,linux,idea,vscode&perline=6"/>
 
 </div>
 
